@@ -4,7 +4,7 @@ Submitted by: Matthew Ochoa
 
 Codepath Prework Android is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: Hour and a half spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -25,10 +25,9 @@ GIF created with Recordit (https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 One big challenge when building the app was having to set up the emulator, having an AMD CPU has caused 
 one issue in which I needed to download the Android Emulator Hypervisor Driver and toggle SVM on in the BIOS.
+At then end once I rebooted my pc with all required settings the emulator was up and running.
 
 ## License
 
